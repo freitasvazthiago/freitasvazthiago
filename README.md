@@ -1,4 +1,4 @@
-## **Linguagens:** 
+## **most used:** 
 
   ![Flask](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
@@ -12,6 +12,6 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   
   
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> but here's my link, so call me, maybe: </h3> 
 
 [![Linkedin: Thiago Freitas](https://img.shields.io/badge/-Thiago_Freitas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=thiago-freitas-ab4714158/)](https://www.linkedin.com/in/thiago-freitas-ab4714158/)
