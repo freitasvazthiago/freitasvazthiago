@@ -1,9 +1,17 @@
-## **Linguagens e Ferramentas:**  
+## **Linguagens:** 
 
+  ![Flask](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
+  ![Jquery](https://img.shields.io/badge/-Jquery-333333?style=flat&logo=jquery)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  
+  
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+[![Linkedin: Thiago Freitas](https://img.shields.io/badge/-Thiago_Freitas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=thiago-freitas-ab4714158/)](https://www.linkedin.com/in/thiago-freitas-ab4714158/)
