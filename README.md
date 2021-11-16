@@ -16,4 +16,4 @@
 
 [![Linkedin: Thiago Freitas](https://img.shields.io/badge/-Thiago_Freitas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=thiago-freitas-ab4714158/)](https://www.linkedin.com/in/thiago-freitas-ab4714158/)
 
-[![Medium: freitasvazthiago](https://img.shields.io/badge/-Thiago_Freitas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=freitasvazthiago.medium.com/)](https://freitasvazthiago.medium.com/)
+[![Medium: freitasvazthiago](https://img.shields.io/badge/-freitasvazthiago-333333?style=flat-square&logo=Linkedin&logoColor=white&link=freitasvazthiago.medium.com/)](https://freitasvazthiago.medium.com/)
